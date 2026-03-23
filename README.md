@@ -10,8 +10,6 @@ QQ群交流：304584722 ; QQ交流群2：740911918
 
 注意⚠️：以下webstack所有项目均为开源项目，webstack没有任何Pro版本或专业版本！
 
-![](http://www.webstack.cc/assets/images/preview.gif)
-
 这是一个开源的公益项目，你可以拿来制作自己的网址导航，也可以做与导航无关的网站。如果你有任何疑问，可以通过个人网站[viggoz.com](https://www.viggoz.com)中的联系方式找到我，欢迎与我交流分享。
 
 声明
@@ -19,13 +17,9 @@ QQ群交流：304584722 ; QQ交流群2：740911918
 "一导航"未经允许推出的“Webstack Pro 版本”付费导航主题，跟本项目没有任何关系，在此解答[类似 Issues](https://github.com/WebStackPage/WebStackPage.github.io/issues/89)，已经和该公司多次沟通，该公司始终没有移除所有“Webstack Pro”相关名称，在这里郑重声明。
 目前 Webstack 已经有数十种完全免费开源后端版本，数十位共建者在维护本项目，本项目尊重各位共建者劳动成果实现盈利，但不鼓励任何盗用 **WebstackPro** 名义盈利的行为。
 
-![](https://github.com/WebStackPage/WebStackPage.github.io/blob/master/assets/images/webstack_no_pro.png)
-
 欢迎加群一起学习交流技术
 ---
-|Q群(304584722)|Q群2(740911918)|
-|--|--|
-|![](http://www.webstack.cc/assets/images/qqgroup_webstack.jpg)|![](http://www.webstack.cc/assets/images/qqgroup_webstack2.jpg)|
+Q群：304584722；Q群2：740911918
 
 怎么用?
 ---
